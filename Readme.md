@@ -6,7 +6,7 @@ This Python script generates a PDF file using the FPDF library and data from a C
 
 1. **Clone the Repository**:
    ```bash
-   git clone 
+   git clone https://github.com/emmanuelpatrick14/PDF-Generator.git
 
 (recommended)
 python -m venv venv
